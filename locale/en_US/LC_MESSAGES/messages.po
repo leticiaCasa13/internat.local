@@ -1,0 +1,3 @@
+msgid "Welcome to my website"
+msgstr "Welcome to my website"
+
